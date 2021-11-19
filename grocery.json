@@ -1,0 +1,14 @@
+{
+    "Products":[
+      {"Serial":"1", "Name":"Apple", "Quantity":"1 kg", "Unit":"120", "Department":"fruits", "Notes":"fresh Apple"},
+      {"Serial":"2", "Name":"Kiwi", "Quantity":"4 Kg", "Unit":"70", "Department":"fruits", "Notes":"fresh Orange"},
+      {"Serial":"3", "Name":"Orange", "Quantity":"2 Kg", "Unit":"48", "Department":"fruits", "Notes":"fresh Kiwi"},
+      {"Serial":"4", "Name":"Lion Oats", "Quantity":"400 gm", "Unit":"100", "Department":"Packed Food", "Notes":"Fat free diet"},
+      {"Serial":"5", "Name":"Mango Pickel ", "Quantity":"1 Kg", "Unit":"51", "Department":"Pickle", "Notes":"Fresh Pickel"},
+      {"Serial":"6", "Name":"Potatoes", "Quantity":"1 Kg", "Unit":"130", "Department":"Vegitabel", "Notes":"Fresh Vegitable"},
+      {"Serial":"7", "Name":"Onion", "Quantity":"4 kg", "Unit":"100", "Department":"Vegitabel", "Notes":"Fresh Vegitable"},
+      {"Serial":"8", "Name":"Jeera Rice", "Quantity":"2 Kg", "Unit":"200", "Department":"Rice", "Notes":"Biriyani Rice"},
+      {"Serial":"9", "Name":"Turmeric powder", "Quantity":"250 gm", "Unit":"60", "Department":"Curry Powders", "Notes":"Powdered"},
+      {"Serial":"10", "Name":"Chilly Powder", "Quantity":"1 Kg", "Unit":"400", "Department":"Curry Powder", "Notes":"Powdered"}
+    ]
+    }
